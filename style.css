@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#result{
+    width: 450px;
+}
+.cart{
+    display: inline-block;
+    flex: wrap;
+    margin: 20px;
+    padding: 30px;
+    border: blue solid 2px;
+    background-color: blue;
+}
+
+.row1 button{
+    margin: 5px;
+color: blue;
+width: 100px;
+}
+.row2 button{
+    margin: 5px;
+    width: 100px;
+    color: blue;
+    }
+    .row3 button{
+        margin: 5px;
+        width: 100px;
+        color: blue;
+        }
+        .row4 button{
+            margin: 5px;
+            width: 100px;
+            color: blue;
+            }
+            .row5 button{
+                margin: 5px;
+                width: 100px;
+                color: blue;
+                }
+
+                h1{
+                    color: aliceblue;
+                }
+                   
+                .row1:hover{
+                    color:brown;
+                cursor: pointer;
+                }
+
+                .row1:hover{
+                    color:brown;
+                cursor: pointer;
+                }
+                
+                .row1:hover{
+                    color:brown;
+                cursor: pointer;
+                }
+
+
+                .row1:hover{
+                    color:brown;
+                cursor: pointer;
+                }
+
+                .row1:hover{
+                    color:brown;
+                cursor: pointer;
+                }
