@@ -16,7 +16,8 @@
     padding: 30px;
     border: blue solid 2px;
     background-color: blue;
-    box-shadow: darkred;
+    box-shadow: 5px 5px 8px 5px #a5a5a5cb;
+    border: blanchedalmond solid 2px;
 }
 
 .row1 button{

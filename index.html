@@ -59,10 +59,12 @@
         a.value+=n;
     }
 
-    function solve(){
-        var a = document.getElementById('result');
-        a.value+=n;
-    }
+      // Function that evaluates the digit and return result
+      function solve() {
+           var a = document.getElementById("result").value
+           var a = math.evaluate(n)
+            document.getElementById("result").value = n
+        }
 function getresult(){
 var a = document.getElementById("result")
 a.value = eval (result.value);
