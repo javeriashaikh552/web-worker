@@ -16,6 +16,7 @@
     padding: 30px;
     border: blue solid 2px;
     background-color: blue;
+    box-shadow: darkred;
 }
 
 .row1 button{
